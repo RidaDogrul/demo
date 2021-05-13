@@ -6,6 +6,7 @@ public class Main {
 		LogManager logManager = new LogManager ();
 		logManager.log(3);
 		
+		
 	
 
 	}
